@@ -1,2 +1,2 @@
 # Car-shop
-To jest nowy sklep samochodowy
+This is car-shop
